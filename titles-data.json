@@ -1,4 +1,7 @@
 return {
+    ----------------------------------------------------------------
+    -- GOTEI 13 CAPTAINS
+    ----------------------------------------------------------------
     ["Captain1"]  = "Captain - Gotei 1",
     ["Captain2"]  = "Captain - Gotei 2",
     ["Captain3"]  = "Captain - Gotei 3",
@@ -13,18 +16,23 @@ return {
     ["Captain12"] = "Captain - Gotei 12",
     ["Captain13"] = "Captain - Gotei 13",
 
+    ----------------------------------------------------------------
+    -- ESPADA (0–9)
+    ----------------------------------------------------------------
+    ["Espada0"] = "Espada 0",   -- Yammy
+    ["Espada1"] = "Espada I",   -- Starrk
+    ["Espada2"] = "Espada II",  -- Baraggan
+    ["Espada3"] = "Espada III", -- Harribel
+    ["Espada4"] = "Espada IV",  -- Ulquiorra
+    ["Espada5"] = "Espada V",   -- Nnoitra
+    ["Espada6"] = "Espada VI",  -- Grimmjow
+    ["Espada7"] = "Espada VII", -- Zommari
+    ["Espada8"] = "Espada VIII",-- Szayelaporro
+    ["Espada9"] = "Espada IX",  -- Aaroniero
 
-    ["Espada0"] = "Espada 0",   
-    ["Espada1"] = "Espada I",   
-    ["Espada2"] = "Espada II",  
-    ["Espada3"] = "Espada III", 
-    ["Espada4"] = "Espada IV", 
-    ["Espada5"] = "Espada V",   
-    ["Espada6"] = "Espada VI", 
-    ["Espada7"] = "Espada VII", 
-    ["Espada8"] = "Espada VIII",
-    ["Espada9"] = "Espada IX", 
-
+    ----------------------------------------------------------------
+    -- STERNRITTER (A–Z)
+    ----------------------------------------------------------------
     ["SternritterA"] = "Sternritter A - Antithesis",
     ["SternritterB"] = "Sternritter B - Balance",
     ["SternritterC"] = "Sternritter C - Compulsory",
@@ -44,4 +52,11 @@ return {
     ["SternritterQ"] = "Sternritter Q - Question",
     ["SternritterR"] = "Sternritter R - Roar",
     ["SternritterS"] = "Sternritter S - Superstar",
-    ["SternritterT"] =
+    ["SternritterT"] = "Sternritter T - Thunderbolt",
+    ["SternritterU"] = "Sternritter U - Underbelly",
+    ["SternritterV"] = "Sternritter V - Visionary",
+    ["SternritterW"] = "Sternritter W - Wind",
+    ["SternritterX"] = "Sternritter X - X-Axis",
+    ["SternritterY"] = "Sternritter Y - Yourself",
+    ["SternritterZ"] = "Sternritter Z - Zombie",
+}
