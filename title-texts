@@ -1,1 +1,11 @@
-fff
+{
+  ["Captain12"] = "Captain - Gotei 12", 
+  ["Captain13"] = "Captain - Gotei 13", 
+  -- fill out rest an dprevious
+
+  ["Espada3"] = "Espada III", 
+  --fill out rest (roman numerals)
+
+  ["SternritterA"] = "Sternritter A - Antithesis", 
+  -- fill out rest
+}
